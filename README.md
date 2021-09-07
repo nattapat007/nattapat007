@@ -18,7 +18,11 @@ I'm Toto
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nattapat007&show_icons=true&theme=dracula" alt="nattapat007" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nattapat007&show_icons=true&theme=dracula" alt="nattapat007"/>
+  
+<!--
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattapat007&layout=compact&theme=dracula" alt="nattapat007"/>
+-->
 
 <!--
 **nattapat007/nattapat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
